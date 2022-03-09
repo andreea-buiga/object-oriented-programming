@@ -1,0 +1,6 @@
+Pug,Doug,4,http://udfg.ro
+Bulldog,MikeHawk,77,http://iuyi.ro
+Pug,Edgar,8,https://tdfgdre.br
+Pug,Maya,9,https://tdfgdre.br
+Pitbull,MrWorldwide,23,https://tdfgdre.net
+Pitbull,Kiki,12,https://hgfsd.rr

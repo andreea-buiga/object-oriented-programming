@@ -1,0 +1,11 @@
+# ninja log v5
+8	101	6386383603622909	CMakeFiles/a45_912_buiga_andreea.dir/dynamic_array/dynamic_array.cpp.obj	cf013c21bcfeb878
+10	662	6386383608772934	CMakeFiles/a45_912_buiga_andreea.dir/repository/dog_repository.cpp.obj	ad408c864225f747
+1	604	6386392102527883	CMakeFiles/a45_912_buiga_andreea.dir/main.cpp.obj	b7793c379064e90b
+4	697	6386383609502945	CMakeFiles/a45_912_buiga_andreea.dir/domain/dog.cpp.obj	5bb7a2c7ed019ca6
+3	633	6386392102817882	CMakeFiles/a45_912_buiga_andreea.dir/tests/tests.cpp.obj	5b9441ba88df9121
+13	701	6386383609362927	CMakeFiles/a45_912_buiga_andreea.dir/adoption_list/adoption_list.cpp.obj	ea68772dcf817aa1
+6	610	6386392102567885	CMakeFiles/a45_912_buiga_andreea.dir/service/dog_service.cpp.obj	4fbc591a52aaa407
+1	474	6386392542023726	CMakeFiles/a45_912_buiga_andreea.dir/ui/ui.cpp.obj	892eadc766d2c7be
+7	1015	6386383612772910	CMakeFiles/a45_912_buiga_andreea.dir/validator/validator.cpp.obj	cf07e045d40427dc
+475	575	6386392542863728	a45_912_buiga_andreea.exe	3fb796f43e9f76b8

@@ -1,0 +1,11 @@
+ShibaInu;LaoTz;18;https://something.com
+AkitaInu;TziomPing;12;https://sfdg.com
+Husky;Bear;3;https://ham.com
+ShihTzu;Delamain;116;http://qwer.com
+Pug;Doug;4;http://udfg.ro
+GermanShepard;Sasha;6;http://tre.ro
+Bulldog;MikeHawk;69;http://iuyi.ro
+Pug;Edgar;8;https://tdfgdre.br
+Pug;Maya;9;https://tdfgdre.br
+Pitbull;MrWorldwide;23;https://tdfgdre.net
+Pitbull;Kiki;12;https://hgfsd.rr
